@@ -1,6 +1,13 @@
 # Aplicación de Gestión de Tareas
 
 Una aplicación sencilla para gestionar tareas donde puedes agregar, editar y eliminar tareas. Las tareas tienen un nombre, estado (Completado, Pendiente, En Progreso) y un color que indica el estado.
+## Capturas de Pantalla
+
+Aquí puedes ver algunas capturas de pantalla de la interfaz de la aplicación:
+
+![Pantalla principal](https://i.ibb.co/JcMqBWk/Screenshot-2025-01-19-at-10-25-07-PM.png)
+![Pantalla de edición de tarea](https://i.ibb.co/bXChsgv/Screenshot-2025-01-19-at-10-25-13-PM.png)
+
 
 ## Características
 - Agregar nuevas tareas.

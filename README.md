@@ -31,7 +31,8 @@ Antes de ejecutar la aplicación, asegúrate de tener instaladas las siguientes 
 ## Cómo Ejecutar
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/jimmyochoa/task-list-ui.git
+   cd task-list-ui
 2. Instala las dependencias:
    ```bash
    npm install

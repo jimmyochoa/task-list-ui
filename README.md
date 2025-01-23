@@ -8,6 +8,11 @@ Aquí puedes ver algunas capturas de pantalla de la interfaz de la aplicación:
 ![Pantalla principal](https://i.ibb.co/JcMqBWk/Screenshot-2025-01-19-at-10-25-07-PM.png)
 ![Pantalla de edición de tarea](https://i.ibb.co/bXChsgv/Screenshot-2025-01-19-at-10-25-13-PM.png)
 
+## Demo en vivo
+
+Puedes ver una demostración en vivo de la aplicación en el siguiente enlace:
+
+[Enlace de la Demo](https://jimmyochoa.github.io/task-list-ui/)
 
 ## Características
 - Agregar nuevas tareas.
